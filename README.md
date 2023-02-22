@@ -8,4 +8,8 @@ https://youtu.be/9zWK00SMuuw
 
 *Due to academic integrity concerns by our team I was unable to upload the source code for this project. However, if you would like more information about this project, please email me at julianwearden@utexas.edu.*
 
+##
+###### This project was completed at UT Austin in the Spring of 2022 by: 
+###### Ryan McSweeney • Zachary Bouthillette • Alec Neiman • Julian Wearden
+
 

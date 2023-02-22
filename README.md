@@ -1,4 +1,4 @@
-# EE445L Final Project: MANHUNT EX
+# EE445L Embedded System Design Lab Final Project
 
 ## Project Video Submission
 The following is a short infomercial-type skit made by our team showcasing our final embedded project:

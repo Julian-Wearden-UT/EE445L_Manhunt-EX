@@ -6,7 +6,7 @@ https://youtu.be/9zWK00SMuuw
 
 ## Academic Integrity Disclaimer
 
-*Due to academic integrity concerns by our team I was unable to upload the source code for this project. However, if you would like more information about this project, please email me at julianwearden@utexas.edu.*
+*Unfortunately, due to academic integrity concerns by our team I was unable to upload the source code for this project. However, if you would like more information about this project, please email me at julianwearden@utexas.edu.*
 
 ##
 ###### This project was completed at UT Austin in the Spring of 2022 by: 
